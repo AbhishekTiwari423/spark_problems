@@ -1,0 +1,7 @@
+This folder contains snippet which can be used to apply data quality rules like-
+1. Timestamp format validation
+2. Single integer column value validation (single column)
+3. Multiple Integer column value validation 
+4. Date format validation
+5. Integer value range validation
+6. Schema validation based on input schema supplied
